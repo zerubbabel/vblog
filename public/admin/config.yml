@@ -2,8 +2,8 @@ backend:
   name: github
   branch: main # change this to your branch
   repo: zerubbabel/vblog # 1、change this to your repo
-  site_domain: vblog-iota.vercel.app # 2、change this to your domain
-  base_url: https://vblog-iota.vercel.app # 3、change this to your prod URL
+  site_domain: vblog-iota.vercel.cdn.cyfan.top # 2、change this to your domain
+  base_url: https://vblog-iota.vercel.cdn.cyfan.top # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
 
 collections:
